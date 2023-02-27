@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// URCALC Solution by Satyarth
+// URCALC Solution by Satyartha
 // fixed in cout returns the entire characteristic and mantissa part 
 int main() 
 {
