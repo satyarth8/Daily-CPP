@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//Program which reverse string in a faster method
 int main()
 {
     int x=0;//index increaser for the reversed string

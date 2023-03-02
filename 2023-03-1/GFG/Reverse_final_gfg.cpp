@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+// code snippet i uploaded on gfg
 using namespace std;
 string reverseWord(string str)
 {
