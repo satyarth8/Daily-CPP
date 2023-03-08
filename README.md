@@ -1,8 +1,8 @@
 #  **DailyCPP**:
 Welcome to my DailyCPP repository!<br> This is where I upload a new solution to a problem from 
-- [**CodeChef**](https://www.codechef.com/users/satyarth_7) 
-- [**LeetCode**](https://leetcode.com/satyarthaprakash7168/)
-- [**GeeksforGeeks**](https://auth.geeksforgeeks.org/user/satyarth8)
+- [**CodeChef**](https://www.codechef.com/) 
+- [**LeetCode**](https://leetcode.com/)
+- [**GeeksforGeeks**](https://auth.geeksforgeeks.org/)
 
 every day, using C++. I created this repository to track my progress in problem-solving and to share my solutions with others who are interested in C++ programming.
 
